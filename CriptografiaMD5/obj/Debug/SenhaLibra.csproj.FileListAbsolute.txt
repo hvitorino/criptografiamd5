@@ -1,0 +1,6 @@
+c:\users\hamon\documents\visual studio 2012\Projects\SenhaLibra\SenhaLibra\bin\Debug\SenhaLibra.exe.config
+c:\users\hamon\documents\visual studio 2012\Projects\SenhaLibra\SenhaLibra\bin\Debug\SenhaLibra.exe
+c:\users\hamon\documents\visual studio 2012\Projects\SenhaLibra\SenhaLibra\bin\Debug\SenhaLibra.pdb
+c:\users\hamon\documents\visual studio 2012\Projects\SenhaLibra\SenhaLibra\obj\Debug\SenhaLibra.csprojResolveAssemblyReference.cache
+c:\users\hamon\documents\visual studio 2012\Projects\SenhaLibra\SenhaLibra\obj\Debug\SenhaLibra.exe
+c:\users\hamon\documents\visual studio 2012\Projects\SenhaLibra\SenhaLibra\obj\Debug\SenhaLibra.pdb
